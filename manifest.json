@@ -1,1 +1,22 @@
 
+{
+  "name": "My Pet Shop",
+  "short_name": "Pet Shop",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff0f0",
+  "theme_color": "#e91e63",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/curler-hamster-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/curler-hamster-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
